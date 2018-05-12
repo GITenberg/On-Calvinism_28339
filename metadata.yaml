@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33281'
     url: http://www.gutenberg.org/2009/agents/33281
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28339#On-Calvinism
 gutenberg_issued: '2009-03-16'
 gutenberg_type: Text
 identifiers:
